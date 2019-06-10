@@ -15,4 +15,6 @@ function nameToAttributes(drivers) {
   });
 }
 
-function 
+function attributesToPhrase(drivers) {
+  
+}
