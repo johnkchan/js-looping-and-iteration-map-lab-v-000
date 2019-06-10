@@ -2,7 +2,9 @@
 
 
 function lowerCaseDrivers(drivers) {
-  
+  drivers.map(function(driver) {
+    
+  });
 }
 
 function nameToAttributes(drivers) {
